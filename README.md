@@ -6,5 +6,3 @@ I am interested in software engineering and electronics. I develop android appli
 
  - 🔭 I’m currently working on 'MananPic' an image editing library
  - 🌭 I love hot dog
-
-"What doesn't kill you makes you extremely weak"
