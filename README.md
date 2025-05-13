@@ -6,4 +6,4 @@ I am interested in software engineering and electronics. I develop android appli
 
 ### Reach me on
 - [Telegram](https://telegram.me/Mohammad3125)
-- [Linkdin](https://www.linkedin.com/in/mohammad-hossein-naderi)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-hossein-naderi)
