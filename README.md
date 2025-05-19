@@ -1,5 +1,6 @@
 ### 👋 Hi there
-I am interested in software engineering and electronics. I develop android applications with Kotlin and Android Java Framework.
+Android Developer with 2 years of experience in Kotlin and Java, possessing a strong familiarity with 
+Android SDK. I focus on writing high-performance mobile applications and clean code.
 
  - 🔭 I’m currently working on an image editing library
  - 🌭 I love hot dog
