@@ -1,5 +1,5 @@
 ### 👋 Hi there
-Android Developer with 2 years of experience in Kotlin and Java, possessing a strong familiarity with 
+Android Developer with 1 years of experience in Kotlin and Java, possessing a strong familiarity with 
 Android SDK. I focus on writing high-performance mobile applications and clean code.
 
  - 🔭 I’m currently working on my image editing library [Simurgh](https://github.com/Mohammad3125/SimurghPhotoEditor)
